@@ -1,0 +1,33 @@
+.main-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.label-container {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
+.input-1 {
+  border: 1px #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  width: 180px;
+  outline: none;
+}
+
+.para {
+  background-color: #ffffff;
+  color: #219a6f;
+  padding: 10px;
+  border-radius: 8px;
+  width: 160px;
+  font-weight: bold;
+}
+
+input {
+  background-color: transparent;
+}
